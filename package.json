@@ -1,0 +1,22 @@
+{
+  "name": "mep-utilities.visibility",
+  "version": "1.0.0",
+  "description": "Visibility Utility",
+  "main": "stylesheets/_utility-visibility.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "name": "utility-visibility",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/utilities.visibility.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
